@@ -1,7 +1,7 @@
 from langchain_nvidia_ai_endpoints import ChatNVIDIA, NVIDIAEmbeddings
 
 
-API_KEY = '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'
+API_KEY = 'api_key'
 
 
 llm = ChatNVIDIA(
