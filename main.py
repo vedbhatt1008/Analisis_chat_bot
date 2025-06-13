@@ -10,7 +10,7 @@ from langchain.document_loaders import UnstructuredURLLoader
 from langchain.vectorstores import FAISS
 
 import os
-os.environ["NVIDIA_API_KEY"] = "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"
+os.environ["NVIDIA_API_KEY"] = "api_key"
 
 
 st.title("Analysis Bot")
